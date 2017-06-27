@@ -1,0 +1,19 @@
+{
+  "name": "gene-rator",
+  "version": "0.0.1-pre",
+  "description": "Generates objects based on a template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "generator",
+    "test"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "recursive-keys": "^0.9.0"
+  }
+}
